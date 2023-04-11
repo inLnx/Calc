@@ -16,7 +16,7 @@ cin >> num1;
 int oper ()
 {
   cout << "Pick a Operator" << endl;
-  cin >> oper
+  cin >> oper;
   
 }
   
@@ -24,8 +24,8 @@ int oper ()
 
 int num2 ()
 {
- cout << "Pick a 2nd number" 
-  cin >> num2
+ cout << "Pick a 2nd number"; 
+  cin >> num2;
   
   
   
@@ -33,7 +33,7 @@ int num2 ()
 
   
   
-  cout << "num1 oper num2" 
+  cout << ("num1 + num2"); 
   
   
   
