@@ -7,7 +7,7 @@ int main ()
   
 int num1 ()
 {
-cout << "Enter First Number" << endl;
+cout << "Enter first number" << endl;
 cin >> num1;
 }
   
