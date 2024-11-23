@@ -1,5 +1,6 @@
-#include <iostream>;
-#include <cmath>;
+#include <iostream>
+#include <cmath>
+use namespace std
 
 int main ()
 {
